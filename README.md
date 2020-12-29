@@ -1,5 +1,5 @@
 # ansible-basics
-This is repo for proof of concepts all things in here are just to play with Ansible in a basic level.
+This is a project for proof of concepts, all things in here are just to play with Ansible in a basic level.
 
 
 ## Setup this project
